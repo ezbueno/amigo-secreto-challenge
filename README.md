@@ -35,10 +35,11 @@ amigo-secreto/
 ├── style.css       # Estilos do projeto
 ├── app.js          # Lógica do sorteio e interatividade
 ├── assets/         # Imagens e ícones usados no projeto
+├── README.md       # Documentação do projeto
+
 
 ## Como Usar
 
 Clone este repositório:
 
-```bash
 git clone https://github.com/seu-usuario/amigo-secreto.git
